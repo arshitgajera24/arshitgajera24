@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arshit Gajera </h1>
+<h1 align="center">Hi 👋, I'm Arshit Gajera 🇮🇳</h1>
 <h3 align="center">🌍 An Aspiring Technologist from India, Turning Passion into Purpose.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshitgajera24&label=Profile%20views&color=0e75b6&style=flat" alt="arshitgajera24" /> </p>
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **B.Sc in Information Technology**
 
-- 👨‍💻 All of My Projects are Available at [https://github.com/arshitgajera24?tab=repositories](https://github.com/arshitgajera24?tab=repositories)
+- 👨‍💻 All of My Projects are Available at [Repository(https://github.com/arshitgajera24?tab=repositories)
 
 - 💬 Ask me About **HTML5, CSS, DBMS, JS, REACT, NODE, EXPRESS, MYSQL**
 
-- How to Reach Me **arshitgajera24@gmail.com**
+- 📫 How to Reach Me **arshitgajera24@gmail.com**
 
 - ⚡ Fun fact **Coding + Creativity = Pure Magic! ✨ Make your code come alive! #DevLife**
 

@@ -36,5 +36,4 @@
   <img src="https://img.shields.io/badge/GitHub_Streak-🔥%20123%20days-red?style=for-the-badge" alt="GitHub Streak" />
 </div>
 
-<img src="https://i.pinimg.com/originals/42/68/de/4268de8240c22d1320ae4b8ad77c2413.gif" width="100%" height="400" />
-
+<img src="[https://i.pinimg.com/originals/42/68/de/4268de8240c22d1320ae4b8ad77c2413.gif](https://i.pinimg.com/originals/42/68/de/4268de8240c22d1320ae4b8ad77c2413.gif)" width="100%" height="400" />

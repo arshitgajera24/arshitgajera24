@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/8d/8c/83/8d8c83e6fd50045287375032a8797318.gif" width="100%" height="auto" />
+
 <h1 align="center">Hi 👋, I'm Arshit Gajera <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="30"></h1>
 <h3 align="center">🌍 An Aspiring Technologist from India, Turning Passion into Purpose.</h3>
 

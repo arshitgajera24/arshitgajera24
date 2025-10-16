@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **B.Sc in Information Technology**
 
-- 👨‍💻 All of My Projects are Available at [Repository(https://github.com/arshitgajera24?tab=repositories)
+- 👨‍💻 All of My Projects are Available at [Repository](https://github.com/arshitgajera24?tab=repositories)
 
 - 💬 Ask me About **HTML5, CSS, DBMS, JS, REACT, NODE, EXPRESS, MYSQL**
 

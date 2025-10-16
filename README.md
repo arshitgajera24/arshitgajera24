@@ -34,7 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arshitgajera24&show_icons=true&locale=en&theme=dark&hide_border=false" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshitgajera24&theme=dark" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://img.shields.io/badge/GitHub_Streak-🔥%20123%20days-red?style=for-the-badge)
+
 

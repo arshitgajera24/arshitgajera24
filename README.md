@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arshit Gajera 🇮🇳</h1>
+<h1 align="center">Hi 👋, I'm Arshit Gajera <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="30"></h1>
 <h3 align="center">🌍 An Aspiring Technologist from India, Turning Passion into Purpose.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshitgajera24&label=Profile%20views&color=0e75b6&style=flat" alt="arshitgajera24" /> </p>

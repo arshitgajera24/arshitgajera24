@@ -1,3 +1,5 @@
+![MasterHead](https://resize.imagekit.co/OPFx4t-9-zxhxsyTgKeyKPYU6S-rPI6etu3obqCMIfE/h:300/dpr:2/bg:ffffff/plain/s3://betalist-production/y7fjgc7xw89f15wycsalm15k3p32)
+
 <h1 align="center">Hi 👋, I'm Arshit Gajera <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="30"></h1>
 <h3 align="center">🌍 An Aspiring Technologist from India, Turning Passion into Purpose.</h3>
 

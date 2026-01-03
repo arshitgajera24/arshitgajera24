@@ -11,7 +11,7 @@
 
 - ✨ Take a Look at My [Portfolio](https://portfolio-arshit.vercel.app)
 
-- 💬 Ask me About **HTML5, CSS, DBMS, JS, REACT, NODE, EXPRESS, MYSQL**
+- 💬 Ask me About **HTML5, CSS, RDBMS, JS, REACT.JS, NEXT.JS, NODE.JS, EXPRESS.JS, MYSQL**
 
 - 📫 How to Reach Me **arshitgajera24@gmail.com**
 

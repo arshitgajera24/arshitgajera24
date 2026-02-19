@@ -75,6 +75,7 @@
   </a>
 </p>
 
+<hr/>
 <!-- ===================== FOOTER PIXEL BANNER ===================== -->
 <p align="center">
   <img 

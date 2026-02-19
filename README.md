@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arshitgajera24&theme=radical&bg_color=0A0F24&border_color=1F4287&title_color=278EA5&icon_color=12CBC4&text_color=FFFFFF" alt="Arshit Gajera's GitHub Contribution"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arshitgajera24&theme=tokyonight" alt="Arshit Gajera's GitHub Contribution"/>
 </p>
 
 <div align="right">

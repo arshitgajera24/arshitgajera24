@@ -20,6 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+  <a href="mailto:arshitgajera24@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Arshit_Gajera-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
   <a href="https://linkedin.com/in/arshit-gajera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Arshit_Gajera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

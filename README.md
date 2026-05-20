@@ -126,7 +126,7 @@
   <a href="https://github.com/arshitgajera24">
     <img 
       src="https://github-readme-streak-stats.herokuapp.com/?user=arshitgajera24&theme=radical&background=0A0F24&border=1F4287&stroke=145374&ring=278EA5&fire=12CBC4" 
-      width="98%" 
+      width="80%" 
     />
   </a>
 </p>
@@ -136,7 +136,7 @@
   <a href="https://github.com/arshitgajera24">
     <img 
       src="https://github-readme-activity-graph.vercel.app/graph?username=arshitgajera24&theme=react-dark&hide_border=true&bg_color=0A0F24&color=278EA5&line=12CBC4&point=1F4287" 
-      width="98%" 
+      width="90%" 
     />
   </a>
 </p>

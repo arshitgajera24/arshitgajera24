@@ -141,16 +141,6 @@
   </a>
 </p>
 
-<!-- ===================== 3D CONTRIBUTION CALENDAR ===================== -->
-<p align="center">
-  <a href="https://github.com/arshitgajera24">
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arshitgajera24&theme=tokyonight" 
-      width="98%" 
-    />
-  </a>
-</p>
-
 <hr/>
 <!-- ===================== FOOTER PIXEL BANNER ===================== -->
 <p align="center">
